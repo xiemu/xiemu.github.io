@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[華麗謝幕的Blog]]></title>
-  <link href="http://xiemu.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 杂七杂八 | 華麗謝幕的Blog]]></title>
+  <link href="http://xiemu.github.io/blog/categories/za-qi-za-ba/atom.xml" rel="self"/>
   <link href="http://xiemu.github.io/"/>
   <updated>2014-03-03T23:53:03+08:00</updated>
   <id>http://xiemu.github.io/</id>
